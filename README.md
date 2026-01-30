@@ -1,1 +1,1 @@
-tugas ahkir melakukan semua command git
+tugas ahkir git
